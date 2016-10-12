@@ -1,4 +1,4 @@
-![Imgur](http://i.imgur.com/4ryvBXS.png)
+![Imgur](http://i.imgur.com/UUXGtyc.png "Logo")
 ----------------------------------------
 
 ##Biografie
