@@ -13,7 +13,8 @@
 **Nationaliteit:** Belg  
 **Burgerlijke staat:** Ongehuwd  
 **E-mailadres:** jochen.declercq@student.arteveldehs.be  
-**Social Media:** Facebook, Twitter, Pinterest
+**Social Media:** Facebook: https://www.facebook.com/jochen.declercq  
+Vimeo: https://vimeo.com/user38008120
 
 ##Portfolio
 
@@ -80,6 +81,11 @@
 	* Adobe After Effects
 	* Adobe Audition
 	* Adobe Indesign
+##Overige
+*Winnaar one minute festival beste fictie 2016  
+*TAKEN  
+Link van video op mijn vimeo: https://vimeo.com/164929707  
+Link op de website van one minute festival: http://www.arteveldehogeschool.be/oneminutefestival/pages/archief.html
 
 ##Contactinformatie
 
