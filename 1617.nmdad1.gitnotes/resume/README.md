@@ -81,8 +81,11 @@ Vimeo: https://vimeo.com/user38008120
 	* Adobe After Effects
 	* Adobe Audition
 	* Adobe Indesign
-	
-###Overige
+
+##Softwarekennis
+
+###One minute
+
 * Winnaar one minute festival beste fictie 2016  
 * TAKEN  
 Link van video op mijn vimeo: https://vimeo.com/164929707  
