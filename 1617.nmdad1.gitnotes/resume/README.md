@@ -43,6 +43,9 @@
 | **Inex (Bavegem)**|2011|Vakantiewerk: magazijn (nachtwerk)|
 | **Inex (Bavegem)**|2012|Vakantiewerk: labo|
 
+##Cursussen en workshops
+
+* 3D modelling & 3D printing
 
 ##Kennis webtechnologieën
 
