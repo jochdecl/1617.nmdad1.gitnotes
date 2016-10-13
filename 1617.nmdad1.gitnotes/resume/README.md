@@ -82,7 +82,7 @@ Vimeo: https://vimeo.com/user38008120
 	* Adobe Audition
 	* Adobe Indesign
 
-##Softwarekennis
+##Overige
 
 ###One minute
 
