@@ -7,14 +7,13 @@
 ![jochen](http://i.imgur.com/oP31Iq0.jpg "profielfoto")
 
 **Naam:** Jochen De Clercq  
-**Geslacht:** man 
+**Geslacht:** man  
 **Adres en woonplaats:** Sint-Fledericusstraat 40 , 9520 Vlierzele  
 **Geboortejaar:** 28 Februari 1992   
-**Nationaliteit:** Belg
-**Burgerlijke staat:** Ongehuwd
-**E-mailadres:** jochen.declercq@student.arteveldehs.be
+**Nationaliteit:** Belg  
+**Burgerlijke staat:** Ongehuwd  
+**E-mailadres:** jochen.declercq@student.arteveldehs.be  
 **Social Media:** Facebook, Twitter, Pinterest
-
 
 ##Portfolio
 
